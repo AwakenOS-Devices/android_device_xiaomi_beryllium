@@ -320,7 +320,4 @@
 
     <!-- Slow brightness animation ramp rate in float. -->
     <item name="config_brightnessRampRateSlowFloat" format="float" type="dimen">0.098039</item>
-
-    <!-- Fast brightness animation ramp rate in float. -->
-    <item name="config_brightnessRampRateFastFloat" format="float" type="dimen">0.125490</item>
 </resources>
